@@ -26,11 +26,11 @@ function AppLayout() {
 
   return (
       <div
-      style={{
-        display: 'flex',
-        flexDirection: 'column',
-        minHeight: '100vh', // Hauteur totale de la fenêtre
-      }}
+        style={{
+          display: 'flex',
+          flexDirection: 'column',
+          minHeight: '100vh', // Hauteur totale de la fenêtre
+        }}
     >
       {/* Header fixe */}
      
